@@ -33,6 +33,7 @@ whitelist = ['addons.mozilla.org',
              'www.btcelist.com',
              'www.imdb.com',
              'thepiratebay.se',
+             'stumbleupon.com',
              'www.amazon.com']
 
 domains = set()
